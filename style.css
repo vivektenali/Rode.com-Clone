@@ -1,0 +1,51 @@
+.mid-sec1{
+background-image: url('https://edge.rode.com/images%2Fpage%2F1%2Fmodules%2F5357%2Fmicrophones-module-1200x300-rgb.png');
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+}
+.moblie-sec1{
+background-image: url('./Assets/microphonemobile.png');
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+}
+.mid-sec2{
+background-image: url('https://rode.com/assets/images%2Fpage%2F1%2Fmodules%2F5359%2Finterfaces-module-2022-1200x300-rgb.jpg');
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+}
+.moblie-sec2{
+background-image: url('./Assets/mobilemixer.png');
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+}
+.mid-sec3{
+background-image: url('https://edge.rode.com/images%2Fpage%2F1%2Fmodules%2F5361%2Fsoftware-module-2021-1200x300-rgb.png');
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+}
+.moblie-sec3{
+background-image: url('./Assets/mobilesoftware.png');
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+}
+.mid-sec4{
+background-image: url('https://edge.rode.com/images%2Fpage%2F1%2Fmodules%2F5370%2Faccessories-module-2021-1200x300-rgb.png');
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+}
+.moblie-sec4{
+background-image: url('./Assets/mobileaccessories.png');
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+}
+.icons{
+color: #AD9970;
+}
