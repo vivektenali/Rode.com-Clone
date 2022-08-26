@@ -51,6 +51,8 @@ Write more code and Build More Stuff!!!
 
 ![App Screenshot](./Assets/screencapture-rode-clone-vivektenali-netlify-app-2022-08-25-15_40_58.png)
 
+![Mockup](./Assets/mockupimage.png))
+
 > Thank You  [Hitesh Sir](https://hiteshchoudhary.com/) for the guidance. 
 
 **I Write Code**
